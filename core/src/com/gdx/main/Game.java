@@ -19,7 +19,6 @@ import com.gdx.main.entities.reward.WeaponReward;
 import com.gdx.main.entities.tile.Tile;
 import com.gdx.main.graphics.Animator;
 import com.gdx.main.graphics.Camera;
-import com.gdx.main.World;
 
 public class Game extends ApplicationAdapter {
 	public static final float BASE_UPS = 60.0f;
@@ -449,6 +448,7 @@ public class Game extends ApplicationAdapter {
 	@Override
 	public void dispose() {
 		batch.dispose();
+		gui.dispose();
 
 		for (Entity e : entities)
 			e.dispose();
