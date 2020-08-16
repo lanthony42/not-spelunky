@@ -53,11 +53,11 @@ public class Player extends Object {
 	private float range, projSpeed, actionDelay, actionTimer;
 	
 	public Player(boolean active, int x, int y) {
-		super(active, x, y, "player/def", 16, 16, 2, 30, BASE_HEALTH, true, true, new Animator("player/dead", 1, 30, false, false), new ColliderPlayer());
-		right = new Animator("player/right", 3, 5, true, true);
-		left = new Animator("player/left", 3, 5, true, true);
-		duck = new Animator("player/duck", 4, 20, true, false);
-		jump = new Animator("player/jump", 3, 5, true, false);
+		super(active, x, y, "player/def", 16, 16, 5, 10, BASE_HEALTH, true, true, new Animator("player/dead", 1, 30, false, false), new ColliderPlayer());
+		right = new Animator("player/right", 16, 5, true, true);
+		left = new Animator("player/left", 16, 5, true, true);
+		duck = new Animator("player/duck", 3, 20, true, false);
+		jump = new Animator("player/jump", 4, 3, true, false);
 		protect = new Animator("player/protect", 1, 30, false, false);
 
 		movementStateX = RIGHT;
@@ -297,9 +297,9 @@ public class Player extends Object {
 	
 	public void draw(SpriteBatch batch) {
 		if(!isJump())
-			batch.draw(animation.getSprite(), Math.round(getPositionX()), Math.round(getPositionY()), 16, 16);
+			batch.draw(animation.getSprite(), Math.round(getPositionX()), Math.round(getPositionY()), 16, 26);
 		else
-			batch.draw(animation.getSprite(), Math.round(getPositionX()), getPositionY(), 16, 16);
+			batch.draw(animation.getSprite(), Math.round(getPositionX()), getPositionY(), 16, 26);
 	}
 	
 	public void dispose(){

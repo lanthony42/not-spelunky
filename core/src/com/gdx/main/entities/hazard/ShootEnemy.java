@@ -21,9 +21,9 @@ public class ShootEnemy extends Hazard {
 	private Random rand;
 
 	public ShootEnemy(boolean active, int x, int y, int width, int height, int damage, boolean smart) {
-		super(active, x, y, 25, damage, "hazard/shooter", width, height, 2, 10);
+		super(active, x, y, 25, damage, "hazard/shooter", width, height, 2, 15);
 
-		smartDef = new Animator("hazard/shooter/smart", 2, 10, true, true);
+		smartDef = new Animator("hazard/shooter/smart", 2, 15, true, true);
 		rand = new Random();
 		dir = rand.nextBoolean() ? Math.PI : 0;
 		isSmart = smart;

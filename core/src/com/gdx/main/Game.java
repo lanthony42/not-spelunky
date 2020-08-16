@@ -23,7 +23,7 @@ import com.gdx.main.graphics.Camera;
 public class Game extends ApplicationAdapter {
 	public static final float BASE_UPS = 60.0f;
 	public static final float UPS_DELAY = 1 / BASE_UPS;
-	public static final float RAMP_UP = 5;
+	public static final float RAMP_UP = 7.5f;
 	public static final float IMMUNE = 180;
 
 	public static final int SCREEN_WIDTH = 1408;
@@ -91,6 +91,7 @@ public class Game extends ApplicationAdapter {
 		if(map != null)
 			map.destroy();
 		map = new World(difficulty, entities);
+		System.out.println(difficulty);
 		
 		if(player != null) {
 			player.setPosition(map.getStart().getPosition().x + 16, map.getStart().getPosition().y + 64);

@@ -9,7 +9,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5587dfa7-34c9-4c41-91f2-18046fb78400" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/def/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/def/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/def/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/jump/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/left/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/left/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/left/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/left/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/left/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/left/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/left/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/left/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/left/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/left/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/left/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/left/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/left/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/left/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/right/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/right/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/right/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/right/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/right/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/right/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/right/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/right/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/right/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/right/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/right/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/right/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/right/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/assets/player/right/9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -20,10 +51,82 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/jumper/jump/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/jumper/jump/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/jumper/jump_smart/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/jumper/jump_smart/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/jumper/left/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/jumper/left/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/jumper/left/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/jumper/left/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/jumper/left/dead/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/jumper/left/dead/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/jumper/right/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/jumper/right/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/jumper/right/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/jumper/right/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/shooter/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/shooter/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/shooter/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/shooter/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/shooter/dead/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/shooter/dead/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/shooter/proj/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/shooter/proj/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/shooter/proj/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/shooter/proj/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/shooter/proj/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/shooter/proj/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/shooter/proj/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/shooter/proj/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/shooter/smart/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/shooter/smart/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/shooter/smart/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/shooter/smart/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/spike/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/spike/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/spike/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/spike/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/spike/dead/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/spike/dead/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/station/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/station/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/station/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/station/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/station/dead/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/station/dead/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/walker/left/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/walker/left/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/walker/left/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/walker/left/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/walker/left/dead/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/walker/left/dead/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/walker/right/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/walker/right/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/hazard/walker/right/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/hazard/walker/right/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/player/dead/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/player/dead/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/player/def/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/player/def/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/player/def/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/player/def/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/player/duck/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/player/duck/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/player/duck/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/player/duck/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/player/duck/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/player/duck/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/player/duck/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/player/jump/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/player/jump/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/player/jump/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/player/jump/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/player/jump/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/player/jump/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/player/left/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/player/left/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/player/left/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/player/left/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/player/left/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/player/left/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/player/protect/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/player/protect/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/player/right/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/player/right/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/player/right/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/player/right/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/player/right/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/player/right/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/reward/score1/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/reward/score1/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/reward/score2/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/reward/score2/0.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/src/com/gdx/main/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/gdx/main/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/gdx/main/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/gdx/main/World.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/src/com/gdx/main/entities/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/gdx/main/entities/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/gdx/main/entities/hazard/ShootEnemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/gdx/main/entities/hazard/ShootEnemy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/hazard/spike/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/hazard/spike/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/hazard/spike/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/hazard/spike/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/hazard/spike/dead/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/hazard/spike/dead/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/hazard/station/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/hazard/station/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/hazard/station/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/hazard/station/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/hazard/station/dead/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/hazard/station/dead/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/hazard/walker/left/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/hazard/walker/left/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/hazard/walker/left/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/hazard/walker/left/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/player/dead/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/player/dead/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/player/def/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/player/def/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/player/def/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/player/def/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/player/duck/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/player/duck/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/player/duck/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/player/duck/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/player/duck/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/player/duck/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/player/duck/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/player/jump/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/player/jump/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/player/jump/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/player/jump/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/player/jump/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/player/jump/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/player/left/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/player/left/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/player/left/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/player/left/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/player/left/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/player/left/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/player/protect/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/player/protect/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/player/right/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/player/right/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/player/right/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/player/right/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/player/right/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/player/right/2.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +166,15 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZVjULCEw1Tx0iag24LBPp8G5ol" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
@@ -150,10 +257,29 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597538871991">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1597538871991" />
+    <state width="1493" height="184" key="GridCell.Tab.0.bottom" timestamp="1597551311061">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597551311061" />
+    <state width="1493" height="184" key="GridCell.Tab.0.center" timestamp="1597551311060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597551311060" />
+    <state width="1493" height="184" key="GridCell.Tab.0.left" timestamp="1597551311060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597551311060" />
+    <state width="1493" height="184" key="GridCell.Tab.0.right" timestamp="1597551311060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597551311060" />
   </component>
 </project>

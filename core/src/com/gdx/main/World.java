@@ -26,7 +26,7 @@ public class World {
 	public World(int diff, ArrayList<Entity> e) {
 		difficulty = diff;
 		
-		size = new Vector2D(ROOM_X[Math.max(0, (difficulty - 1) / 10)], ROOM_Y[Math.max(0, (difficulty - 1) / 10)]);
+		size = new Vector2D(ROOM_X[Math.max(0, (difficulty - 1) / 12)], ROOM_Y[Math.max(0, (difficulty - 1) / 12)]);
 		totalMapSize = new Vector2D(size.x * Game.TROOM_WIDTH, size.y * Game.TROOM_HEIGHT);
 		
 		generateWorld(e);
