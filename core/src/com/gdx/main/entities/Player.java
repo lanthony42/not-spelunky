@@ -262,7 +262,7 @@ public class Player extends Object {
 	
 	public void takeDamage(int damage) {
 		if(!isDead) {
-			health -= actionState == PROTECT ? damage / 2 : damage;
+			health -= actionState == PROTECT ? damage / 4 : damage;
 		}
 		if(damage > 0) {
 			isDamage = true;

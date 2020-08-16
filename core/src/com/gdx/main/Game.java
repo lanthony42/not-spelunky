@@ -117,7 +117,7 @@ public class Game extends ApplicationAdapter {
 			back.update();
 			
 			drawMenu();
-			//System.out.println(Math.round(1 / Gdx.graphics.getRawDeltaTime()) + " fps");
+			// System.out.println(Math.round(1 / Gdx.graphics.getRawDeltaTime()) + " fps");
 		}
 		// Main game state
 		else {
@@ -131,7 +131,7 @@ public class Game extends ApplicationAdapter {
 			}
 
 			draw();
-			System.out.println(Math.round(1 / Gdx.graphics.getRawDeltaTime()) + " fps");
+			// System.out.println(Math.round(1 / Gdx.graphics.getRawDeltaTime()) + " fps");
 		}
 	}
 
@@ -384,7 +384,7 @@ public class Game extends ApplicationAdapter {
 			else if(player.getPositionX() < TROOM_WIDTH * 2.6)
 				bigFont.draw(gui, "Space  helps  tank  damage", 500, 70);
 			else if(player.getPositionX() < TROOM_WIDTH * 4)
-				bigFont.draw(gui, "Keep  on  going  left !!!", 450, SCREEN_HEIGHT - 100);
+				bigFont.draw(gui, "Keep  on  going  right !!!", 450, SCREEN_HEIGHT - 100);
 		}
 		
 		gui.flush();
